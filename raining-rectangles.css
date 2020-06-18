@@ -1,0 +1,19 @@
+body {
+  text-align : center;
+  background-color: mistyrose; 
+}
+canvas {
+  display : block;
+  width : 400px;
+  height : 250px;
+  margin : auto;
+  padding : 0;
+  border : none;
+  background-color : lightblue;
+}
+button {
+  display : block;
+  font-size : inherit;
+  margin : auto;
+  padding : 0.6em;
+}
